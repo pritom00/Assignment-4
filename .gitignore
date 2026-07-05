@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+
+# Environment files
+.env
+.env.*
+
+# Local Postgres data
+.pgdata/
+.pgdata.log
+
+# Reports and temporary test artifacts
+reports/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
